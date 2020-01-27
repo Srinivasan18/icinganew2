@@ -1,0 +1,9 @@
+---
+# description: Repository to install the client from
+# type: string
+icinga_repo: ""
+
+# description: Icinga2 user
+# type: string
+icinga2_user: icinga
+icinga2_ticketsalt: "44ec1644cb7ecd3f824b59ff2ee5d287"
